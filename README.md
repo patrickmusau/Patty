@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @CompBwoY
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Patrick a techie
+- 👀 I’m interested in Technology and new advancements in technology and science
+- 🌱 I’m currently learning CyberSecurity and Pentesting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 LinkedIn - MUSAU PATRICK MULWA
-Email - partrickmusau@gmail.com
+Email - partrickmusau@outlook.com
 
 <!---
 CompBwoY/CompBwoY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
